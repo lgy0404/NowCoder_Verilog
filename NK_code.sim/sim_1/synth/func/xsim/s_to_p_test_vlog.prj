@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"s_to_p_test_func_synth.v" \
+"../../../../../NK_code.srcs/sim_1/new/VL30_s_to_p_tb.v" \
+
+# Do not sort compile order
+nosort

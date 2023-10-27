@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/William/Desktop/NK_code/NK_code.sim/sim_1/synth/func/xsim/s_to_p_test_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module s_to_p
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/William/Desktop/NK_code/NK_code.srcs/sim_1/new/VL30_s_to_p_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module s_to_p_test
